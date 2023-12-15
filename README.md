@@ -23,9 +23,8 @@ from the feature branch, add our code changes or amendment e.g. new lines in ter
 
 ![github code ](https://github.com/RameshDM86/captone_ramesh_version/assets/137069406/a5212b47-f951-4459-800d-23a4d9e408b5)
 
-!(https://github.com/RameshDM86/captone_ramesh_version/assets/137069406/7dcc53d1-80d7-4764-ab7b-d6ed4728c06b)
-
-
+![open for pull requests and require approval by approving party](https://github.com/RameshDM86/captone_ramesh_version/assets/137069406/91c88d1b-71cc-451a-8e17-4cf458822de1)
+![once approval branch tested](https://github.com/RameshDM86/captone_ramesh_version/assets/137069406/88b58ba1-8f3e-4717-9be9-ccc0b5336397)
 
 
 <br>from github console, create a new pull request from `feature/new-code` to `dev`  , get the approvers' approvals and merge the pull request. this will trigger a deployment in `dev` </br>
