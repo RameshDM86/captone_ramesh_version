@@ -18,7 +18,7 @@ Architecture
 <br> for workflow from start to end:</br> 
 <br> from dev branch, create a feature branch as feature test br by doing `git checkout dev  --> git checkout -b feature/feature test br ` &nbsp; &nbsp;
 from the feature branch, add our code changes or amendment e.g. new lines in terraform or new files </br>
-<br> Perform code commit for example as `git add . --> git commit -m "message" --> git push` &nbsp; &nbsp; </br>
+<br> Perform code commit for example as `git add . --> git commit -m "Testing branching approval" --> git push` &nbsp; &nbsp; </br>
 
 ![github code ](https://github.com/RameshDM86/captone_ramesh_version/assets/137069406/a5212b47-f951-4459-800d-23a4d9e408b5)
 
