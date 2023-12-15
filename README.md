@@ -23,6 +23,6 @@ from the feature branch, add our code changes or amendment e.g. new lines in ter
 
 ![github code ](https://github.com/RameshDM86/captone_ramesh_version/assets/137069406/a5212b47-f951-4459-800d-23a4d9e408b5)
 
-<br>from github console, create a new pull request from `feature/new-code` to `dev`  , get the approvers' approvals and merge the pull request. this will trigger a deployment in `dev` </br>
-<br> to deploy to uat, from your github console, create a new pull request from `dev` to `uat` , get the approvers' approvals and merge the pull request. this will trigger a deployment in `uat` </br> 
-<br> to deploy to prod, from your github console, create a new pull request from `uat` to `prod` , get the approvers' approvals and merge the pull request. this will trigger a deployment in `prod` </br>
+<br>From github console, create a new pull request from `feature/new-code` to `dev`  , get the Ramesh' approvals and merge the pull request. this will trigger a deployment in `dev` </br>
+<br> Deploy to uat, from your github console, create a new pull request from `dev` to `uat` , get the Sharil' approvals and merge the pull request. this will trigger a deployment in `uat` </br> 
+<br> to deploy to prod, from your github console, create a new pull request from `uat` to `prod` , get the  approvals and merge the pull request. this will trigger a deployment in `prod` </br>
