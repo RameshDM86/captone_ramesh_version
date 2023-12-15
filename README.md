@@ -16,9 +16,9 @@ Architecture
 -	S3 bucket set to public so the webpage is currently viewable by the public in all 3 environments.
 
 for workflow from start to end:
-from dev branch, create a feature branch or a hotfix branch by doing `git checkout dev  --> git checkout -b feature/new-code` &nbsp; &nbsp;
+from dev branch, create a feature branch as feature test br by doing `git checkout dev  --> git checkout -b feature/feature test br ` &nbsp; &nbsp;
 from the feature branch, add our code changes or amendment e.g. new lines in terraform or new files
-do your code commits e.g. `git add . --> git commit -m "message" --> git push` &nbsp; &nbsp;
-from your github console, create a new pull request from feature/new-code to dev  , get the approvers' approvals and merge the pull request. this will trigger a deployment in dev
+Perform code commit for example as `git add . --> git commit -m "message" --> git push` &nbsp; &nbsp;
+from github console, create a new pull request from feature/new-code to dev  , get the approvers' approvals and merge the pull request. this will trigger a deployment in dev
 to deploy to uat, from your github console, create a new pull request from dev to uat , get the approvers' approvals and merge the pull request. this will trigger a deployment in uat
 to deploy to prod, from your github console, create a new pull request from uat to prod , get the approvers' approvals and merge the pull request. this will trigger a deployment in prod
