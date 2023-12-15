@@ -27,7 +27,6 @@ from the feature branch, add our code changes or amendment e.g. new lines in ter
 ![open for pull requests and require approval by approving party](https://github.com/RameshDM86/captone_ramesh_version/assets/137069406/91c88d1b-71cc-451a-8e17-4cf458822de1)
 ![once approval branch tested](https://github.com/RameshDM86/captone_ramesh_version/assets/137069406/88b58ba1-8f3e-4717-9be9-ccc0b5336397)
 
-
 <br>from github console, create a new pull request from `feature/new-code` to `dev`  , get the approvers' approvals and merge the pull request. this will trigger a deployment in `dev` </br>
 <br> to deploy to uat, from your github console, create a new pull request from `dev` to `uat` , get the approvers' approvals and merge the pull request. this will trigger a deployment in `uat` </br> 
 <br> to deploy to prod, from your github console, create a new pull request from `uat` to `prod` , get the approvers' approvals and merge the pull request. this will trigger a deployment in `prod` </br>
