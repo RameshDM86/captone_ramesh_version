@@ -6,14 +6,13 @@ Our Team 1 webpage for a new start-up using HTML5 Dimensions template : https://
 
 The workflow/Architecture is as the digram below:
 
- <img width="467" alt="only_with_snyk" src="https://github.com/RameshDM86/captone_ramesh_version/assets/137069406/d7083e35-8de9-437e-b4bf-4ae2c3e51127">
-
+![final](https://github.com/RameshDM86/captone_ramesh_version/assets/137069406/34b1c863-2eff-4681-ac2c-a179cfe7eed1)
 
 Architecture
 -	Simple S3 bucket set up in 3 environments
 -	Dev 
 -	UAT
--	 Prod
+-	Prod
 -	Each environment has its own tf files. 
 -	S3 bucket set to public so the webpage is currently viewable by the public in all 3 environments.
 
