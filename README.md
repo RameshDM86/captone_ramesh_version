@@ -5,8 +5,9 @@ Our Team 1 webpage for a new start-up using HTML5 Dimensions template : https://
 **Webpage is currently static webpage.** 
 
 The workflow/Architecture is as the digram below:
- 
-<img width="467" alt="only_with_snyk" src="https://github.com/RameshDM86/captone_ramesh_version/assets/137069406/8f4fcdca-10af-46e5-a3be-0aaa20432985">
+
+ <img width="467" alt="only_with_snyk" src="https://github.com/RameshDM86/captone_ramesh_version/assets/137069406/d7083e35-8de9-437e-b4bf-4ae2c3e51127">
+
 
 Architecture
 -	Simple S3 bucket set up in 3 environments
