@@ -19,6 +19,6 @@ Architecture
 <br> from dev branch, create a feature branch as feature test br by doing `git checkout dev  --> git checkout -b feature/feature test br ` &nbsp; &nbsp;
 from the feature branch, add our code changes or amendment e.g. new lines in terraform or new files </br>
 <br> Perform code commit for example as `git add . --> git commit -m "message" --> git push` &nbsp; &nbsp; </br>
-<br>from github console, create a n ew pull request from feature/new-code to dev  , get the approvers' approvals and merge the pull request. this will trigger a deployment in dev </br>
-<br> to deploy to uat, from your github console, create a new pull request from dev to uat , get the approvers' approvals and merge the pull request. this will trigger a deployment in uat </br> 
-<br> to deploy to prod, from your github console, create a new pull request from uat to prod , get the approvers' approvals and merge the pull request. this will trigger a deployment in prod </br>
+<br>from github console, create a new pull request from `feature/new-code` to `dev`  , get the approvers' approvals and merge the pull request. this will trigger a deployment in `dev` </br>
+<br> to deploy to uat, from your github console, create a new pull request from `dev` to `uat` , get the approvers' approvals and merge the pull request. this will trigger a deployment in `uat` </br> 
+<br> to deploy to prod, from your github console, create a new pull request from `uat` to `prod` , get the approvers' approvals and merge the pull request. this will trigger a deployment in `prod` </br>
