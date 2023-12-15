@@ -16,7 +16,7 @@ Architecture
 -	Each environment has its own tf files. 
 -	S3 bucket set to public so the webpage is currently viewable by the public in all 3 environments.
 
-<br> for workflow from start to end:</br> 
+<br> The workflow from Feature branch to prod:</br> 
 <br> from dev branch, create a feature branch as feature test br by doing `git checkout dev  --> git checkout -b feature/feature test br ` &nbsp; &nbsp;
 from the feature branch, add our code changes or amendment e.g. new lines in terraform or new files </br>
 <br> Perform code commit for example as `git add . --> git commit -m "Testing branching approval" --> git push` &nbsp; &nbsp; </br>
